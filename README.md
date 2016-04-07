@@ -1,1 +1,3 @@
 # ShoppingListApplication
+# RubyShoppingListAssgnmt
+# RubyShoppingListAssgnmt
